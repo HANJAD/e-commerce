@@ -11,7 +11,7 @@ const HeaderComponent = ({ header }: { header: Header}) => {
             <Link>
               <img src="/logo-black.svg" alt='logo' />
             </Link>
-          <Gutter />
+          </Gutter >
         </nav>
     )
 }
